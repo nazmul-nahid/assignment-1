@@ -1,0 +1,84 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    padding-left: initial;
+
+}
+
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 40px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 5%;
+    
+}
+.name-highlight{
+    color: salmon;
+}
+.image{
+    float: right;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    display:block;
+    overflow: hidden;
+    
+    padding-bottom: 150px;
+    
+    
+    
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+h3{
+    font-size: 40px;
+}
+.show{
+    background-color: rgba(0, 0, 255, 0.486);
+    border: 50px;
+}
+.latest-highlights{
+    text-align: center;
+    color: orangered;
+}
+.first-div{
+    box-shadow:ivory;
+    width: 20%;
+    border-image-width: 15%;
+   
+    
+
+}
+.about{
+    background-color:floralwhite;
+    width: 20%;
+    float: left;
+    margin-top: 4px;
+    padding-left: 3px ;
+
+
+}
+.inquiry{
+    color: white;
+}
+.add-background{
+    background-image: url("shapes/rename.png");
+    width: 500px;
+    height: 150px
+    
+}
+.bottom-image{
+    width: 10%;
+}
